@@ -1,0 +1,13 @@
+name = "PkgTest"
+uuid = "bc432491-1abc-4bb1-8532-d53b7d063071"
+authors = ["Hiroshi Shinaoka <h.shinaoka@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
