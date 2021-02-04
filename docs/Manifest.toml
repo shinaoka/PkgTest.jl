@@ -67,7 +67,7 @@ deps = ["Dates", "LibGit2", "Libdl", "Logging", "Markdown", "Printf", "REPL", "R
 uuid = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
 [[PkgTest]]
-path = ".."
+path = "/home/shinaoka/.julia/dev/PkgTest"
 uuid = "bc432491-1abc-4bb1-8532-d53b7d063071"
 version = "0.1.0"
 
